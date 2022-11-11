@@ -1,0 +1,5 @@
+destructible
+targetable
+hittable
+
+alwaysUnlocked
