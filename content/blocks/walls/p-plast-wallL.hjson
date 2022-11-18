@@ -7,5 +7,5 @@ absorbLasers: true
 insulated: true
 solid: false
 
-category: walls
+category: wall
 buildVisibility: sandboxOnly
