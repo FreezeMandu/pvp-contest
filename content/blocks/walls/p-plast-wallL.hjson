@@ -1,0 +1,11 @@
+type: Wall
+
+size: 2
+health: 20000
+targetable: false
+absorbLasers: true
+insulated: true
+solid: false
+
+category: walls
+buildVisibility: sandboxOnly
