@@ -1,4 +1,5 @@
 type: PowerSource
+name: P-Power
 
 size: 1
 health: 40

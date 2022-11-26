@@ -1,9 +1,9 @@
 {
     "name": "pvp-contest",
     "displayName": "PVP 대회용 모드",
-    "version": 0.61,
+    "version": 0.7,
     "minGameVersion": 138,
     "hidden": false,
     "author": "Mandu",
-    "description": "대회용 모드 0.61"
+    "description": "대회용 모드 0.7"
 }

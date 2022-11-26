@@ -1,4 +1,5 @@
 type: MendProjector
+name: P-Mender
 
 size: 1
 reload: 30

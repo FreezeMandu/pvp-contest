@@ -1,4 +1,5 @@
 type: Wall
+name: P-Wall-Large
 
 size: 2
 health: 20000
