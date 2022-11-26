@@ -8,3 +8,4 @@ laserRange: 8
 maxNodes: 100
 
 buildVisibility: sandboxOnly
+category: power
