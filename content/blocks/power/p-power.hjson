@@ -1,0 +1,9 @@
+type: PowerSource
+
+size: 1
+health: 40
+powerProduction: 10000
+laserRange: 8
+maxNodes: 100
+
+buildVisibility: sandboxOnly
